@@ -1,0 +1,11 @@
+{
+  "org": "jupyterhub",
+  "repo": "jupyterhub-deploy-hpc",
+  "versions": [
+    {
+      "commit": "fbffef1aacf15f656ca6a1b7b2b24906212263d7",
+      "tag": "",
+      "parsed_at": "2026-10-21T22:04:51.818260+00:00"
+    }
+  ]
+}
