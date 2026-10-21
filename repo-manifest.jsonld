@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jupyterhub/jupyterhub-deploy-hpc/commit/fbffef1aacf15f656ca6a1b7b2b24906212263d7",
       "git:hexsha": "fbffef1aacf15f656ca6a1b7b2b24906212263d7",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T22:04:51.815672+00:00"
     }
   ]
 }
